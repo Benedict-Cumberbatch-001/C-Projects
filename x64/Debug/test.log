@@ -1,0 +1,24 @@
+﻿D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(test.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  rabbit.cpp
+D:\PCL 1.14.0\3rdParty\Eigen3\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“rabbit.cpp”)
+  
+D:\PCL 1.14.0\3rdParty\Eigen3\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“rabbit.cpp”)
+  
+D:\PCL 1.14.0\3rdParty\Eigen3\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“rabbit.cpp”)
+  
+D:\PCL 1.14.0\include\pcl-1.14\pcl\visualization\interactor_style.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“rabbit.cpp”)
+  
+D:\PCL 1.14.0\include\pcl-1.14\pcl\visualization\pcl_visualizer.h(1603,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“rabbit.cpp”)
+  
+D:\PCL 1.14.0\3rdParty\VTK\include\vtk-9.3\vtkPolyDataMapper.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“rabbit.cpp”)
+  
+D:\PCL 1.14.0\include\pcl-1.14\pcl\io\io.h(42,1): warning C4081: 应输入“标识符”；找到“字符串”
+  (编译源文件“rabbit.cpp”)
+  
+  test.vcxproj -> F:\VS Projects\test\x64\Debug\PCL demo.exe
